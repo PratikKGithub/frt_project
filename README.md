@@ -20,7 +20,7 @@ I have made a portfolio where with the use of HTML and CSS . As we know today is
 Static Web App
 
 #DEMO LINK--
-
+https://pratikfrt.azurewebsites.net/
 
 Vedio LINK--
 
