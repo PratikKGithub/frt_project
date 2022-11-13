@@ -22,7 +22,8 @@ Static Web App
 #DEMO LINK--
 https://pratikfrt.azurewebsites.net/
 
-Vedio LINK--
+#Video LINK-- 
+https://www.youtube.com/watch?v=S5lipKjvNIA
 
 
 
